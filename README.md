@@ -18,7 +18,7 @@
 
 # Status
 
-![sqlimitless's GitHub stats](https://github-readme-stats.vercel.app/api?username=sqlimitless&show_icons=true&theme=dracula)
+![sqlimitless's GitHub stats](https://github-readme-stats.vercel.app/api?username=sqlimitless)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sqlimitless&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
 
